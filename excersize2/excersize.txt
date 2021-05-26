@@ -7,10 +7,3 @@ adgaerg
 
 
 
-ААААААААа
-ББББББББББББб
-GGGGGGGGGGGG
-
-GTGTGTGGGGGGG
-OIOIOIIIIIIIII
->>>>>>> 3a3abcec570a564d16ce4c021953240556ff43b3
